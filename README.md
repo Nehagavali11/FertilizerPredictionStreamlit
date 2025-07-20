@@ -48,6 +48,7 @@ streamlit run streamlit_app.py
    $ streamlit run streamlit_app.py
    ```
 
+https://fertilizer-prediction.streamlit.app/
 
 <!-- A simple Streamlit app template for you to modify!
 
