@@ -50,6 +50,5 @@ streamlit run streamlit_app.py
 
 https://fertilizer-prediction.streamlit.app/
 
-<!-- A simple Streamlit app template for you to modify!
+<img width="1920" height="877" alt="Screenshot (500)" src="https://github.com/user-attachments/assets/037eec1d-1278-4f6a-85ec-de9f8b2df589" />
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/) -->
