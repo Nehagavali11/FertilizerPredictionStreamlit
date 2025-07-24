@@ -32,7 +32,9 @@ This creates the models/ directory.
 Run the App:
 
 streamlit run streamlit_app.py
+----
 
+## https://fertilizer-prediction.streamlit.app/
 
 ### How to run it on your own machine
 
@@ -48,7 +50,7 @@ streamlit run streamlit_app.py
    $ streamlit run streamlit_app.py
    ```
 
-https://fertilizer-prediction.streamlit.app/
+
 
 <img width="1920" height="877" alt="Screenshot (500)" src="https://github.com/user-attachments/assets/037eec1d-1278-4f6a-85ec-de9f8b2df589" />
 
